@@ -29,10 +29,15 @@ Validate the HTML and CSS code.
 
 Publish the website in the given URL.
 
+
 ## DESIGN TOOL:
+
+
 Figma
 
+
 ## CODE:
+
 
 ```
 <div className="Iphone14Plus1" style={{width: 390, height: 844, position: 'relative', background: '#8083C5'}}>
@@ -51,6 +56,8 @@ Figma
 </div>
 
 ```
+
+
 ```
 <div className="Iphone14Plus2" style={{width: 390, height: 844, position: 'relative', background: '#AE71C3'}}>
   <img className="SaveethaEngineeringCollegeSriperumbudurChennai1" style={{width: 390, height: 81.01, left: 0, top: 8, position: 'absolute'}} src="https://via.placeholder.com/390x81" />
@@ -66,6 +73,8 @@ Figma
 </div>
 
 ```
+
+
 ```
 <div className="Frame1" style={{width: 390, height: 844, position: 'relative', background: '#4A2020'}}>
   <img className="SaveethaEngineeringCollegeSriperumbudurChennai1" style={{width: 390, height: 81.01, left: 0, top: 8, position: 'absolute'}} src="https://via.placeholder.com/390x81" />
@@ -77,6 +86,8 @@ Figma
   <div className="Rectangle3" style={{width: 284, height: 60, left: 33, top: 612, position: 'absolute', background: '#D9D9D9'}} />
 </div>
 ```
+
+
 ```
 <div className="Iphone14Plus3" style={{width: 390, height: 844, position: 'relative', background: '#27525F'}}>
   <img className="SaveethaEngineeringCollegeSriperumbudurChennai1" style={{width: 390, height: 81.01, left: 0, top: 8, position: 'absolute'}} src="https://via.placeholder.com/390x81" />
@@ -92,9 +103,11 @@ Figma
 
 ```
 
+
 ## OUTPUT:
 
 ![alt text](<Screenshot 2024-05-07 115138.png>)
 
 ## RESULT:
+
 The program to design, develop and deploy a web application for event registration is completed successfully.
